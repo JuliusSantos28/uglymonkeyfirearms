@@ -1,0 +1,14 @@
+<nav class="nav" aria-label="Main navigation">
+  <a href="/" class="nav__logo">
+    <img src="/images/logo.jpg" alt="Ugly Monkey Firearms logo" class="nav__logo-img">
+    <span class="nav__logo-text">Ugly Monkey<br>Firearms</span>
+  </a>
+  <button class="nav__toggle" aria-label="Toggle menu" aria-expanded="false">
+    <span class="nav__hamburger"></span>
+  </button>
+  <ul class="nav__menu">
+    <li><a href="/" class="nav__link{% if page.url == '/' %} nav__link--active{% endif %}">Home</a></li>
+    <li><a href="/gallery/" class="nav__link{% if page.url == '/gallery/' %} nav__link--active{% endif %}">Gallery</a></li>
+    <li><a href="/contact/" class="nav__link{% if page.url == '/contact/' %} nav__link--active{% endif %}">Contact</a></li>
+  </ul>
+</nav>

@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "file": "gallery-01.jpg",
+    "caption": "Custom memorial bracelets.",
+    "likes": 29
+  },
+  {
+    "id": 2,
+    "file": "gallery-02.jpg",
+    "caption": "Getting a little green done.",
+    "likes": 12
+  },
+  {
+    "id": 3,
+    "file": "gallery-03.jpg",
+    "caption": "Custom project in the works — hand painted and filled with epoxy.",
+    "likes": 14
+  },
+  {
+    "id": 4,
+    "file": "gallery-04.jpg",
+    "caption": "Testing out some settings on the CO2 laser.",
+    "likes": 16
+  },
+  {
+    "id": 5,
+    "file": "gallery-05.jpg",
+    "caption": "Already getting after it with the new laser. Reach out if you need anything.",
+    "likes": 12
+  },
+  {
+    "id": 6,
+    "file": "gallery-06.jpg",
+    "caption": "lol a of Yeti’s out for delivery this week.",
+    "likes": 16
+  },
+  {
+    "id": 7,
+    "file": "gallery-07.jpg",
+    "caption": "Batch of custom engraved Yetis out for delivery.",
+    "likes": 21
+  },
+  {
+    "id": 8,
+    "file": "gallery-08.jpg",
+    "caption": "Knocked out an order of custom engraved slate coasters this afternoon. If you are interested in having some custom work done reach out. No.",
+    "likes": 27
+  },
+  {
+    "id": 9,
+    "file": "gallery-09.jpg",
+    "caption": "Custom engraved slate coasters.",
+    "likes": 39
+  },
+  {
+    "id": 10,
+    "file": "gallery-10.jpg",
+    "caption": "Retirement gift for a retiring Marine. Semper Fi.",
+    "likes": 59
+  },
+  {
+    "id": 11,
+    "file": "gallery-11.jpg",
+    "caption": "Custom build.",
+    "likes": 49
+  },
+  {
+    "id": 12,
+    "file": "gallery-12.jpg",
+    "caption": "Little bit of black multicam I knocked out yesterday.",
+    "likes": 33
+  },
+  {
+    "id": 13,
+    "file": "gallery-13.jpg",
+    "caption": "About to knock this out on a Gen 5 G19, thoughts?",
+    "likes": 13
+  },
+  {
+    "id": 14,
+    "file": "gallery-14.jpg",
+    "caption": "Ordered the P365 Rose for an LEO client. This thing is bad ass!! Swipe see all the pics!!",
+    "likes": 36
+  },
+  {
+    "id": 15,
+    "file": "gallery-15.jpg",
+    "caption": "Sig P365 Rose build for a client.",
+    "likes": 20
+  },
+  {
+    "id": 16,
+    "file": "gallery-16.jpg",
+    "caption": "Finished product.",
+    "likes": 52
+  },
+  {
+    "id": 17,
+    "file": "gallery-17.jpg",
+    "caption": "Another well deserving Guard member receiving a custom plaque. We are always her to service your needs!!",
+    "likes": 32
+  },
+  {
+    "id": 18,
+    "file": "gallery-18.jpg",
+    "caption": "Quick little minute job for a deserving Guard member.",
+    "likes": 39
+  },
+  {
+    "id": 19,
+    "file": "gallery-19.jpg",
+    "caption": "Here you have it boys and girls. Ca compliant Sig M18. Of note, there is a loaded chamber indicator on the slide and the mags are 10.",
+    "likes": 53
+  },
+  {
+    "id": 20,
+    "file": "gallery-20.jpg",
+    "caption": "Glock 43 rocking a Trijicon RMRCC and suppressor height night sight and a fresh coat of cerakote FDE. Slide cut by.",
+    "likes": 31
+  },
+  {
+    "id": 21,
+    "file": "gallery-21.jpg",
+    "caption": "Everyone loves that burnt bronze.",
+    "likes": 26
+  },
+  {
+    "id": 22,
+    "file": "gallery-22.jpg",
+    "caption": "Springfield Prodigy. If you are interested DM me.",
+    "likes": 29
+  },
+  {
+    "id": 23,
+    "file": "gallery-23.jpg",
+    "caption": "Before and after- polishing a turd takes time!!",
+    "likes": 31
+  },
+  {
+    "id": 24,
+    "file": "gallery-24.jpg",
+    "caption": "Knocked out a quick one in.",
+    "likes": 29
+  },
+  {
+    "id": 25,
+    "file": "gallery-25.jpg",
+    "caption": "1911 we restored for a for Marine.",
+    "likes": 20
+  },
+  {
+    "id": 26,
+    "file": "gallery-26.jpg",
+    "caption": "Finished 2011 we coated for Gotta love that graphite black!!",
+    "likes": 24
+  },
+  {
+    "id": 27,
+    "file": "gallery-27.jpg",
+    "caption": "Knocked out another one today for a well deserving Soldier with the CAARNG.",
+    "likes": 23
+  },
+  {
+    "id": 28,
+    "file": "gallery-28.jpg",
+    "caption": "Knocked out a plaque for my VFW post. Plate is 8.5” x 11”, base is 10” x 13” heavy wood with a carbon fiber pattern.",
+    "likes": 15
+  },
+  {
+    "id": 29,
+    "file": "gallery-29.jpg",
+    "caption": "put his pistols back together after we delivered the freshly coated frames and slides!! Beautiful!!",
+    "likes": 24
+  },
+  {
+    "id": 30,
+    "file": "gallery-30.jpg",
+    "caption": "Little Ak we modernized chilling by the pool!!",
+    "likes": 33
+  },
+  {
+    "id": 31,
+    "file": "gallery-31.jpg",
+    "caption": "Couple of projects we finished up today.",
+    "likes": 31
+  },
+  {
+    "id": 32,
+    "file": "gallery-32.jpg",
+    "caption": "Giving an old Chinese AK a face lift.",
+    "likes": 26
+  },
+  {
+    "id": 33,
+    "file": "gallery-33.jpg",
+    "caption": "Sig. Is.",
+    "likes": 13
+  },
+  {
+    "id": 34,
+    "file": "gallery-34.jpg",
+    "caption": "Another Gen 4 Glock headed home with custom laser stippling.",
+    "likes": 36
+  },
+  {
+    "id": 35,
+    "file": "gallery-35.jpg",
+    "caption": "Fan pattern we did on an for our good friend.",
+    "likes": 20
+  },
+  {
+    "id": 36,
+    "file": "gallery-36.jpg",
+    "caption": "Gen 3 G17, armor black and Magpul FDE.",
+    "likes": 30
+  },
+  {
+    "id": 37,
+    "file": "gallery-37.jpg",
+    "caption": "Knocking out some samples for a stippling job in the works. That chain mail is 🔥",
+    "likes": 25
+  },
+  {
+    "id": 38,
+    "file": "gallery-38.jpg",
+    "caption": "Honored to have been commissioned for another set of Memorial bracelets.",
+    "likes": 41
+  },
+  {
+    "id": 39,
+    "file": "gallery-39.jpg",
+    "caption": "Keeping it simple with. Little black today….",
+    "likes": 19
+  },
+  {
+    "id": 40,
+    "file": "gallery-40.jpg",
+    "caption": "And that’s a wrap. Customer is super stoked, it shoots straight as a laser. Time to top it off with a.",
+    "likes": 30
+  },
+  {
+    "id": 41,
+    "file": "gallery-41.jpg",
+    "caption": "AR Pistol chambered in 9mm on its way to a new home in Florida.",
+    "likes": 33
+  },
+  {
+    "id": 42,
+    "file": "gallery-42.jpg",
+    "caption": "let me zap his P320 slide 😊",
+    "likes": 15
+  },
+  {
+    "id": 43,
+    "file": "gallery-43.jpg",
+    "caption": "Fresh install of a HIPERFIRE, HIPERTOUCH ECLipse trigger in an Aero Precision EPC9. This thing is 🔥",
+    "likes": 17
+  },
+  {
+    "id": 44,
+    "file": "gallery-44.jpg",
+    "caption": "Re did the coating on ‘s 2011 and left an Ugly Monkey hanging out!! That monkey is.31 x.31”.",
+    "likes": 23
+  },
+  {
+    "id": 45,
+    "file": "gallery-45.jpg",
+    "caption": "We were able to laser a plaque honoring a Family’s beloved pet -.",
+    "likes": 28
+  },
+  {
+    "id": 46,
+    "file": "gallery-46.jpg",
+    "caption": "I must say, even though it’s not my first choice of colors it came out phenomenally.",
+    "likes": 11
+  },
+  {
+    "id": 47,
+    "file": "gallery-47.jpg",
+    "caption": "Robin’s egg blue.",
+    "likes": 13
+  },
+  {
+    "id": 48,
+    "file": "gallery-48.jpg",
+    "caption": "Care package going out to my Dad. Engraving by us, leather work by.",
+    "likes": 16
+  },
+  {
+    "id": 49,
+    "file": "gallery-49.jpg",
+    "caption": "Knocked one out for Dad.",
+    "likes": 15
+  },
+  {
+    "id": 50,
+    "file": "gallery-50.jpg",
+    "caption": "Messing around with some stainless steel money clips.",
+    "likes": 19
+  },
+  {
+    "id": 51,
+    "file": "gallery-51.jpg",
+    "caption": "Nice little PCC build with LEO takedown quick release barrel system.",
+    "likes": 22
+  },
+  {
+    "id": 52,
+    "file": "gallery-52.jpg",
+    "caption": "someone wants to be like you!! Engraving for The first of many!! Thank you for your support Steve!!",
+    "likes": 22
+  },
+  {
+    "id": 53,
+    "file": "gallery-53.jpg",
+    "caption": "We acquired this beautiful Beretta.",
+    "likes": 25
+  },
+  {
+    "id": 54,
+    "file": "gallery-54.jpg",
+    "caption": "Custom derby cover we did for a friend.",
+    "likes": 22
+  },
+  {
+    "id": 55,
+    "file": "gallery-55.jpg",
+    "caption": "Made some placards for a Friend.",
+    "likes": 10
+  },
+  {
+    "id": 56,
+    "file": "gallery-56.jpg",
+    "caption": "Donated a custom engraved RIA, All Generations, shotgun for this weeks ‘Merica Match at Prado!! It’s not too late too to sign up!",
+    "likes": 25
+  },
+  {
+    "id": 57,
+    "file": "gallery-57.jpg",
+    "caption": "Want that next level cards or custom gift cards? We now offer a full spectrum of laser engraving services.",
+    "likes": 33
+  },
+  {
+    "id": 58,
+    "file": "gallery-58.jpg",
+    "caption": "This P320 used to be black… grip module and some burnt bronze cerakote and it’s headed to its new home.",
+    "likes": 20
+  },
+  {
+    "id": 59,
+    "file": "gallery-59.jpg",
+    "caption": "Just delivered this Kimber Stainless II to a retired SgtMaj that I served with. His Wife commissioned the work and surprised him with it.",
+    "likes": 34
+  },
+  {
+    "id": 60,
+    "file": "gallery-60.jpg",
+    "caption": "And that’s a wrap….",
+    "likes": 15
+  },
+  {
+    "id": 61,
+    "file": "gallery-61.jpg",
+    "caption": "Before and after story… a S&W revolver that was neglected.",
+    "likes": 16
+  },
+  {
+    "id": 62,
+    "file": "gallery-62.jpg",
+    "caption": "About to try and polish a turd 😂 this pistol showed up looking like it sat in a mud puddle for a couple years.",
+    "likes": 20
+  },
+  {
+    "id": 63,
+    "file": "gallery-63.jpg",
+    "caption": "After handling the first dozen UMF knives I had to commission to make a super special one for me. This ladder pattern Dama Steel is.",
+    "likes": 25
+  },
+  {
+    "id": 64,
+    "file": "gallery-64.jpg",
+    "caption": "Cali compliant Russian headed out the door this President’s day weekend.",
+    "likes": 27
+  },
+  {
+    "id": 65,
+    "file": "gallery-65.jpg",
+    "caption": "Not a gun but still.",
+    "likes": 17
+  },
+  {
+    "id": 66,
+    "file": "gallery-66.jpg",
+    "caption": "Another 1911 facelift in the books. This one is done in black and FDE.",
+    "likes": 23
+  },
+  {
+    "id": 67,
+    "file": "gallery-67.jpg",
+    "caption": "Rose gold.",
+    "likes": 16
+  },
+  {
+    "id": 68,
+    "file": "gallery-68.jpg",
+    "caption": "Little Cerakote action on an XD frame today. “Blue Flame”.",
+    "likes": 10
+  },
+  {
+    "id": 69,
+    "file": "gallery-69.jpg",
+    "caption": "Sniper green.",
+    "likes": 25
+  },
+  {
+    "id": 70,
+    "file": "gallery-70.jpg",
+    "caption": "We have Freedom seeds!! 9, 40,.308, and 6.5!!! DM for pricing.",
+    "likes": 21
+  },
+  {
+    "id": 71,
+    "file": "gallery-71.jpg",
+    "caption": "Ugly Monkey knives by are now available. There will be a limited run of a dozen “one off” knives and a production run available. DM for.",
+    "likes": 9
+  },
+  {
+    "id": 72,
+    "file": "gallery-72.jpg",
+    "caption": "2011.",
+    "likes": 24
+  },
+  {
+    "id": 73,
+    "file": "gallery-73.jpg",
+    "caption": "2011 all mocked up.",
+    "likes": 19
+  },
+  {
+    "id": 74,
+    "file": "gallery-74.jpg",
+    "caption": "For all you Glock fans.",
+    "likes": 38
+  },
+  {
+    "id": 75,
+    "file": "gallery-75.jpg",
+    "caption": "Getting close to finishing up the 2011 build.",
+    "likes": 15
+  },
+  {
+    "id": 76,
+    "file": "gallery-76.jpg",
+    "caption": "What do you know about that gold metal flake?",
+    "likes": 11
+  },
+  {
+    "id": 77,
+    "file": "gallery-77.jpg",
+    "caption": "made me a great little EDC knife that represents ‘s and My Company and matches my shooting gear. Great job Steve!! DM him for pricing on.",
+    "likes": 24
+  },
+  {
+    "id": 78,
+    "file": "gallery-78.jpg",
+    "caption": "Progress on a 2011 build. Waiting for the frame to come back from the machinist. It’s getting fitted for a Nowlin ramped barrel.",
+    "likes": 17
+  },
+  {
+    "id": 79,
+    "file": "gallery-79.jpg",
+    "caption": "FDE coating job complete. Looks prettt sharp.",
+    "likes": 17
+  },
+  {
+    "id": 80,
+    "file": "gallery-80.jpg",
+    "caption": "Came out great. Fully assembled pics tomorrow.",
+    "likes": 25
+  },
+  {
+    "id": 81,
+    "file": "gallery-81.jpg",
+    "caption": "Here is that 2011 from a couple of weeks ago. Rocking a few coats of.",
+    "likes": 16
+  },
+  {
+    "id": 82,
+    "file": "gallery-82.jpg",
+    "caption": "Pics don’t do it justice. What used to be a gassy M&P15 has now transformed into something a little more modern and accurate. Of green for.",
+    "likes": 17
+  },
+  {
+    "id": 83,
+    "file": "gallery-83.jpg",
+    "caption": "Beretta 92FS- Optics cut on the slide, short throw trigger/Wilson combat trigger bar and adjustable main spring gives us just shy of a 7#.",
+    "likes": 10
+  },
+  {
+    "id": 84,
+    "file": "gallery-84.jpg",
+    "caption": "Just got this ported 1911 barrel and lightened slide back from.",
+    "likes": 11
+  },
+  {
+    "id": 85,
+    "file": "gallery-85.jpg",
+    "caption": "300 BO upper built for a fine Man from Montana. Doesn’t that nickel boron BCG look sexy? How about that pinned gas block? Serious upper.",
+    "likes": 17
+  },
+  {
+    "id": 86,
+    "file": "gallery-86.jpg",
+    "caption": "Stipples vs. stock. A little functionality with a little style.",
+    "likes": 12
+  },
+  {
+    "id": 87,
+    "file": "gallery-87.jpg",
+    "caption": "Finished coating job. From stainless to H&K black.",
+    "likes": 5
+  },
+  {
+    "id": 88,
+    "file": "gallery-88.jpg",
+    "caption": "Before and after. Everyone wants those green slides!!",
+    "likes": 9
+  },
+  {
+    "id": 89,
+    "file": "gallery-89.jpg",
+    "caption": "From Ghetto Gold to Back n black. Quick redcoat on a Lightened Glock slide.",
+    "likes": 6
+  },
+  {
+    "id": 90,
+    "file": "gallery-90.jpg",
+    "caption": "Another 1911 facelift plus heavy modifications.",
+    "likes": 8
+  }
+]
