@@ -6,7 +6,7 @@ description: Ugly Monkey Firearms — veteran-owned company providing a full spe
 
 <section class="hero">
   <div class="hero__content">
-    <img src="/images/logo.jpg" alt="Ugly Monkey Firearms logo" class="hero__logo">
+    <img src="/images/logo-circle.png" alt="Ugly Monkey Firearms logo" class="hero__logo">
     <h1 class="hero__title">Ugly Monkey<br>Firearms</h1>
     <p class="hero__tagline">Custom Builds. Precision Work. No Compromises.</p>
     <span class="hero__badge">Veteran-Owned &amp; Operated</span>

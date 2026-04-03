@@ -235,11 +235,9 @@ h3 { font-size: clamp(1.25rem, 1.1rem + 0.75vw, 1.75rem); }
 }
 
 .hero__logo {
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
+  width: 180px;
+  height: auto;
   margin: 0 auto var(--space-md);
-  object-fit: cover;
 }
 
 .hero__title {
@@ -790,8 +788,7 @@ h3 { font-size: clamp(1.25rem, 1.1rem + 0.75vw, 1.75rem); }
   }
 
   .hero__logo {
-    width: 100px;
-    height: 100px;
+    width: 120px;
   }
 
   .feed__header {
